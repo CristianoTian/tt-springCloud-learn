@@ -6,11 +6,14 @@
 
     <groupId>com.hy.tt</groupId>
     <artifactId>tt-springCloud-learn</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
 
     <modules>
         <module>tt-eureka-server</module>
+        <module>tt-eureka-client</module>
+        <module>tt-base</module>
     </modules>
 
 </project>
