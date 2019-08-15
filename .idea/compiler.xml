@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="tt-ser-two" />
+        <module name="tt-zuul" />
         <module name="tt-eureka-client" />
         <module name="tt-eureka-server" />
+        <module name="tt-ser-one" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,6 +21,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="tt-eureka-client" options="-parameters" />
       <module name="tt-eureka-server" options="-parameters" />
+      <module name="tt-ser-one" options="-parameters" />
+      <module name="tt-ser-two" options="-parameters" />
+      <module name="tt-zuul" options="-parameters" />
     </option>
   </component>
 </project>

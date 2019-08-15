@@ -13,6 +13,7 @@
     <modules>
         <module>tt-eureka-server</module>
         <module>tt-eureka-client</module>
+        <module>tt-zuul</module>
     </modules>
 
 </project>
