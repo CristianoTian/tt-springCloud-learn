@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9efd0eea-312b-478f-a960-8cebef0bc43b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/TtZuulApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/ContantValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/FilterType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/ZuulConfigure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/AbstractPreZuulFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/AbstractZuulFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/RateLimiterFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/TtTokenZuulFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/src/test/java/com/hy/tt/TtZuulApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/tt-zuul.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt-ser-one/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tt-ser-one/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt-ser-two/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tt-ser-two/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tt-zuul/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,111 +28,51 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/AbstractZuulFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.jar!/com/netflix/zuul/ZuulFilter.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="67" selection-start-line="67" selection-end-line="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.jar!/com/netflix/zuul/FilterProcessor.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="124" selection-start-line="124" selection-end-line="124" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/AbstractPreZuulFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/TtTokenZuulFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/RateLimiterFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/TtZuulApplication.java">
+        <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/ContantValue.java">
+        <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/FilterType.java">
+        <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/TtSerTwoApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="209">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tt-eureka-server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/TtSerOneApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/ZuulConfigure.java">
+        <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="247">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -184,6 +109,11 @@
       <find>doAcquireSharedInterruptibly</find>
       <find>acquireSharedInterruptibly</find>
       <find>eureka</find>
+      <find>threadLocals</find>
+      <find>threshold</find>
+      <find>initialValue</find>
+      <find>createMap</find>
+      <find>inheritableThreadLocals</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -226,17 +156,13 @@
         <option value="$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/controller/RateLimiterTest.java" />
         <option value="$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/controller/SingleLinkListReversal.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/tt-ser-one/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/tt-ser-two/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/tt-ser-two/pom.xml" />
         <option value="$PROJECT_DIR$/tt-ser-one/pom.xml" />
         <option value="$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/TtSerOneApplication.java" />
         <option value="$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/TtSerTwoApplication.java" />
         <option value="$PROJECT_DIR$/tt-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/TtZuulApplication.java" />
-        <option value="$PROJECT_DIR$/tt-zuul/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/ContantValue.java" />
         <option value="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/AbstractZuulFilter.java" />
@@ -246,6 +172,10 @@
         <option value="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/RateLimiterFilter.java" />
         <option value="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/Test.java" />
         <option value="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/ZuulConfigure.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/tt-ser-two/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tt-ser-one/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tt-zuul/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -274,8 +204,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -285,63 +213,48 @@
             </path>
             <path>
               <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tt" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tt" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tt" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -388,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Spring Boot.TtSerTwoApplication">
     <configuration name="RateLimiterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hy.tt.controller.RateLimiterTest" />
       <module name="tt-eureka-client" />
@@ -527,7 +440,8 @@
       <workItem from="1565588376340" duration="7839000" />
       <workItem from="1565660652878" duration="7541000" />
       <workItem from="1565746433572" duration="10320000" />
-      <workItem from="1565834243629" duration="12994000" />
+      <workItem from="1565834243629" duration="13595000" />
+      <workItem from="1565918809066" duration="5782000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1563264152303</created>
@@ -564,18 +478,24 @@
       <option name="project" value="LOCAL" />
       <updated>1565848165588</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="zuul">
+      <created>1565861921161</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565861921161</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106338000" />
+    <option name="totallyTimeSpent" value="112721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-170" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.33902758" visible="true" weight="0.2521322" />
-      <window_info id="Structure" order="1" sideWeight="0.6609724" side_tool="true" weight="0.3583461" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.33783785" visible="true" weight="0.25426438" />
+      <window_info id="Structure" order="1" sideWeight="0.6621622" side_tool="true" weight="0.25426438" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -585,7 +505,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.40599" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.34407485" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" visible="true" weight="0.45841995" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.45841995" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32968536" />
@@ -601,7 +521,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24984501" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.20309168" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.20309168" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="JSF" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
@@ -619,50 +539,10 @@
     <MESSAGE value="fix" />
     <MESSAGE value="自定义注解" />
     <MESSAGE value="单链表反转" />
-    <option name="LAST_COMMIT_MESSAGE" value="单链表反转" />
+    <MESSAGE value="zuul" />
+    <option name="LAST_COMMIT_MESSAGE" value="zuul" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/config/JsonArg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/config/JsonArgumentResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="898">
-          <caret line="164" column="5" selection-start-line="164" selection-start-column="5" selection-end-line="164" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/controller/SingleLinkListReversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1140">
-          <caret line="74" column="7" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
-          <folding>
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="71" column="7" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-eureka-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/tt-eureka-server/src/main/resources/application-one.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -697,33 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="9" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-eureka-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-eureka-server/src/main/java/com/hy/tt/TtEurekaServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -769,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/TtSerTwoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tt-ser-two/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -797,31 +643,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/TtSerOneApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="66" lean-forward="true" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -900,13 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/AbstractPreZuulFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.jar!/com/netflix/zuul/ZuulFilter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -921,9 +739,10 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/Test.java" />
     <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/AbstractZuulFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
+        <state relative-caret-position="399">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -931,34 +750,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/AbstractPreZuulFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/TtTokenZuulFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state relative-caret-position="247">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/RateLimiterFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="285">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -968,7 +780,17 @@
     <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/TtZuulApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="209">
+            <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -986,17 +808,118 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/jfr.jar!/oracle/jrockit/jfr/Logger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#6151#0" expanded="true" />
+            <element signature="e#281#408#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="125" column="16" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="16" />
+          <folding>
+            <element signature="e#3276#3277#0" expanded="true" />
+            <element signature="e#3337#3338#0" expanded="true" />
+            <element signature="e#4309#4310#0" expanded="true" />
+            <element signature="e#4336#4337#0" expanded="true" />
+            <element signature="e#7765#7766#0" expanded="true" />
+            <element signature="e#7802#7803#0" expanded="true" />
+            <element signature="e#8068#8069#0" expanded="true" />
+            <element signature="e#8137#8138#0" expanded="true" />
+            <element signature="e#11458#11459#0" expanded="true" />
+            <element signature="e#11505#11506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/InheritableThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="79" column="22" lean-forward="true" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+          <folding>
+            <element signature="e#1728#1729#0" expanded="true" />
+            <element signature="e#1762#1763#0" expanded="true" />
+            <element signature="e#1909#1910#0" expanded="true" />
+            <element signature="e#1956#1957#0" expanded="true" />
+            <element signature="e#2180#2181#0" expanded="true" />
+            <element signature="e#2260#2261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/435188-20180412214045427-176081083.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="388" column="13" selection-start-line="417" selection-start-column="35" selection-end-line="417" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/ZuulConfigure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="342">
+          <caret line="18" column="5" selection-start-line="15" selection-start-column="2" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#379#380#0" expanded="true" />
             <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
             <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-eureka-server/src/main/java/com/hy/tt/TtEurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-eureka-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/TtSerOneApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/TtSerTwoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>

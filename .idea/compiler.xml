@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="tt-ser-one" />
         <module name="tt-ser-two" />
-        <module name="tt-zuul" />
         <module name="tt-eureka-client" />
         <module name="tt-eureka-server" />
-        <module name="tt-ser-one" />
+        <module name="tt-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
