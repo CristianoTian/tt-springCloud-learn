@@ -1,6 +1,7 @@
 package com.hy.tt.config;
 
 import com.hy.tt.filter.RateLimiterFilter;
+import com.hy.tt.filter.TrackIdFilter;
 import com.hy.tt.filter.TtTokenZuulFilter;
 import com.netflix.zuul.ZuulFilter;
 import org.springframework.context.annotation.Bean;
@@ -23,4 +24,8 @@ public class ZuulConfigure {
         return new RateLimiterFilter();
     }
 
+    @Bean
+    public TrackIdFilter getFilter(){
+        return new TrackIdFilter();
+    }
 }

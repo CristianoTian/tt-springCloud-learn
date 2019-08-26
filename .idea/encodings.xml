@@ -4,6 +4,7 @@
     <file url="file://$PROJECT_DIR$/tt-eureka-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tt-eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tt-ser-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tt-ser-one-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tt-ser-two" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tt-zuul" charset="UTF-8" />
   </component>

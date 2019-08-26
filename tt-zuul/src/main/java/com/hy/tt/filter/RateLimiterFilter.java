@@ -12,24 +12,33 @@ import javax.servlet.http.HttpServletRequest;
  */
 @Slf4j
 public class RateLimiterFilter extends AbstractPreZuulFilter {
-
-    RateLimiter rateLimiter = RateLimiter.create(50);
-
     @Override
     public Object doRun() {
-        RequestContext ctx = RequestContext.getCurrentContext();
-        HttpServletRequest request = ctx.getRequest();
-        String url = request.getRequestURI();
-        if(rateLimiter.tryAcquire()){
-            return success();
-        }else{
-            log.info(String.format("rate limit %s",url));
-            return fail(401,String.format("rate limit{}",url));
-        }
+        return null;
     }
 
     @Override
     public int filterOrder() {
         return 0;
     }
+
+//    RateLimiter rateLimiter = RateLimiter.create(50);
+//
+//    @Override
+//    public Object doRun() {
+//        RequestContext ctx = RequestContext.getCurrentContext();
+//        HttpServletRequest request = ctx.getRequest();
+//        String url = request.getRequestURI();
+//        if(rateLimiter.tryAcquire()){
+//            return success();
+//        }else{
+//            log.info(String.format("rate limit %s",url));
+//            return fail(401,String.format("rate limit{}",url));
+//        }
+//    }
+//
+//    @Override
+//    public int filterOrder() {
+//        return 0;
+//    }
 }

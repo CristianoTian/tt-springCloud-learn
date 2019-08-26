@@ -11,24 +11,33 @@ import javax.servlet.http.HttpServletRequest;
  */
 @Slf4j
 public class TtTokenZuulFilter extends AbstractPreZuulFilter {
-
     @Override
     public Object doRun() {
-        RequestContext ctx = RequestContext.getCurrentContext();
-        HttpServletRequest request = ctx.getRequest();
-        String remoteHost = request.getRemoteHost();
-        String method = request.getMethod();
-        String requestURI = request.getRequestURI();
-        Object token = request.getHeader("token");
-        if(token == null){
-            log.info(String.format("host:%s,method:%s,uri:%s token is missing",remoteHost,method,requestURI));
-            return fail(403,String.format("host:%s,method:%s,uri:%s token is missing",remoteHost,method,requestURI));
-        }
-        return success();
+        return null;
     }
 
     @Override
     public int filterOrder() {
-        return 1;
+        return 0;
     }
+
+//    @Override
+//    public Object doRun() {
+//        RequestContext ctx = RequestContext.getCurrentContext();
+//        HttpServletRequest request = ctx.getRequest();
+//        String remoteHost = request.getRemoteHost();
+//        String method = request.getMethod();
+//        String requestURI = request.getRequestURI();
+//        Object token = request.getHeader("token");
+//        if(token == null){
+//            log.info(String.format("host:%s,method:%s,uri:%s token is missing",remoteHost,method,requestURI));
+//            return fail(403,String.format("host:%s,method:%s,uri:%s token is missing",remoteHost,method,requestURI));
+//        }
+//        return success();
+//    }
+//
+//    @Override
+//    public int filterOrder() {
+//        return 1;
+//    }
 }

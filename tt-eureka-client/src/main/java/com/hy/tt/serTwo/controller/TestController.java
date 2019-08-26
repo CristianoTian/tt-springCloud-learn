@@ -1,4 +1,4 @@
-package com.hy.tt.controller;
+package com.hy.tt.serTwo.controller;
 
 import com.alibaba.fastjson.JSONObject;
 import com.hy.tt.dao.People;
