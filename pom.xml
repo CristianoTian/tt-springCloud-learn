@@ -14,6 +14,9 @@
         <module>tt-eureka-server</module>
         <module>tt-eureka-client</module>
         <module>tt-zuul</module>
+        <module>tt-ser-one</module>
+        <module>tt-ser-two</module>
+        <module>tt-ser-one-api</module>
     </modules>
 
 </project>

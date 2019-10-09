@@ -15,16 +15,20 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
       <module name="tt-base" target="1.8" />
+      <module name="tt-zipkin" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
       <module name="tt-eureka-client" options="-parameters" />
       <module name="tt-eureka-server" options="-parameters" />
       <module name="tt-ser-one" options="-parameters" />
       <module name="tt-ser-one-api" options="-parameters" />
       <module name="tt-ser-two" options="-parameters" />
+      <module name="tt-zipkin" options="-parameters" />
       <module name="tt-zuul" options="-parameters" />
     </option>
   </component>

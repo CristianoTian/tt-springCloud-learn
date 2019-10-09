@@ -15,3 +15,12 @@ eureka服务搭建,通过不同的启动命令启用不同的端口,便于高可
     2.通过路由项目Interceptor获取header中的唯一表示放入MDC,并且通过feign的RequestInterceptor设置header
     3.和2类似获取header
         
+三、tt-zipkin
+链路追踪:
+1,http通信配置
+    ①.搭建zipkin服务,集成相关jar包,启动类添加注解
+    ②.相关服务添加jar包,配置文件添加相应的zipkin地址
+2,mq配置
+    ①.搭建zipkin服务,集成相关jar包,启动类添加注解 ------ jar包(添加mq相关)配置文件添加mq配置
+    ②.相关服务添加jar包,配置文件添加相应的zipkin地址  ----- 改成mq地址
+   

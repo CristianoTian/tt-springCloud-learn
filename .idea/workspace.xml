@@ -1,39 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9efd0eea-312b-478f-a960-8cebef0bc43b" name="Default Changelist" comment="zuul">
-      <change afterPath="$PROJECT_DIR$/tt-ser-one-api/src/main/java/com/hy/tt/serOne/controller/IHelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/config/DefaultWebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/config/TrackInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-ser-one/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/config/DefaultWebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/config/FeignInterceptorConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/config/TrackInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-ser-two/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/TrackIdFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/otherTest/CountDownLatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/otherTest/CyclicBarrierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/otherTest/ObjectWaitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-zuul/src/main/resources/logback-spring.xml" afterDir="false" />
+    <list default="true" id="9efd0eea-312b-478f-a960-8cebef0bc43b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/controller/SingleLinkListReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/serTwo/controller/SingleLinkListReversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/serTwo/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt-ser-one/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tt-ser-one/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/serOne/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt-ser-one/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tt-ser-one/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt-ser-one/target/classes/com/hy/tt/controller/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt-ser-two/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tt-ser-two/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/TtSerTwoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/TtSerTwoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/serTwo/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt-ser-two/target/classes/com/hy/tt/TtSerTwoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/tt-ser-two/target/classes/com/hy/tt/TtSerTwoApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt-ser-two/target/classes/com/hy/tt/controller/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/ZuulConfigure.java" beforeDir="false" afterPath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/ZuulConfigure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/RateLimiterFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/RateLimiterFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/TtTokenZuulFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/TtTokenZuulFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/serTwo/controller/SingleLinkListReversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt-ser-two/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tt-ser-two/target/classes/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,6 +19,8 @@
     <ignored path="$PROJECT_DIR$/tt-ser-one/target/" />
     <ignored path="$PROJECT_DIR$/tt-ser-two/target/" />
     <ignored path="$PROJECT_DIR$/tt-ser-one-api/target/" />
+    <ignored path="$PROJECT_DIR$/tt-zipkin/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,12 +31,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/TrackIdFilter.java">
+        <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/serTwo/controller/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="43" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="199">
+              <caret line="28" column="41" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tt-ser-one-api/src/main/java/com/hy/tt/serOne/controller/IHelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="247">
               <caret line="14" column="28" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -79,20 +56,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/config/FeignInterceptorConfig.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/serOne/controller/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+            <state relative-caret-position="247">
+              <caret line="24" column="38" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/config/TrackInterceptor.java">
+        <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/config/DefaultWebMvcConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="23" column="31" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="31" />
+            <state relative-caret-position="247">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/config/TrackInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="25" column="39" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -107,49 +96,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/config/TrackInterceptor.java">
+        <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/config/FeignInterceptorConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
+              <caret line="27" column="5" selection-start-line="18" selection-start-column="3" selection-end-line="27" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/config/TrackInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
               <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/serOne/controller/HelloController.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="304">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/resources/logback-spring.xml">
+        <entry file="file://$PROJECT_DIR$/tt-ser-two/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/HandlerExecutionChain.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="86" selection-start-line="86" selection-end-line="86" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/config/DefaultWebMvcConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="52">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -168,8 +145,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fox</find>
-      <find>load</find>
       <find>ThreadLocal</find>
       <find>nextLocalGaussian</find>
       <find>ThreadLocalRandom</find>
@@ -198,6 +173,8 @@
       <find>signalAll</find>
       <find>LOG_HOME</find>
       <find>scan</find>
+      <find>zipkin</find>
+      <find>zipk</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -209,12 +186,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tt-eureka-client/pom.xml" />
-        <option value="$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/config/MethodLimit.java" />
-        <option value="$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/config/MethodLimitAspect.java" />
         <option value="$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/controller/RateLimiterTest.java" />
         <option value="$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/controller/SingleLinkListReversal.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/TtZuulApplication.java" />
         <option value="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/ContantValue.java" />
@@ -222,8 +195,6 @@
         <option value="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/FilterType.java" />
         <option value="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/AbstractPreZuulFilter.java" />
         <option value="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/Test.java" />
-        <option value="$PROJECT_DIR$/tt-ser-two/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/tt-ser-one/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/tt-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/tt-zuul/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/CountDownLatchTest.java" />
@@ -245,7 +216,6 @@
         <option value="$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/controller/IHelloController.java" />
         <option value="$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/serTwo/controller/IHelloController.java" />
         <option value="$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/serOne/controller/IHelloController.java" />
-        <option value="$PROJECT_DIR$/tt-ser-two/pom.xml" />
         <option value="$PROJECT_DIR$/tt-ser-one-api/pom.xml" />
         <option value="$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/TtSerTwoApplication.java" />
         <option value="$PROJECT_DIR$/tt-ser-one-api/src/main/java/com/hy/tt/serOne/controller/IHelloController.java" />
@@ -257,9 +227,16 @@
         <option value="$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/serOne/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/tt-ser-one-api/src/main/java/com/hy/tt/serOne/config/DefaultWebMvcConfig.java" />
         <option value="$PROJECT_DIR$/tt-ser-two/src/main/java/config/TrackInterceptor.java" />
-        <option value="$PROJECT_DIR$/tt-ser-one/pom.xml" />
         <option value="$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/config/FeignInterceptorConfig.java" />
+        <option value="$PROJECT_DIR$/tt-zipkin/src/main/java/com/hy/tt/TtZipkinApplication.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/tt-zipkin/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tt-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/tt-ser-two/pom.xml" />
+        <option value="$PROJECT_DIR$/tt-ser-one/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tt-ser-one/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tt-ser-two/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -272,17 +249,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="tt-ser-one-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="tt-ser-one-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -299,6 +266,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -306,219 +274,10 @@
               <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-one" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-one" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-one" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-one" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-one" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-one" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tt" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-one" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tt" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-one" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-one-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-one-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-one-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-one-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-one-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-two" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-two" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-two" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-two" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-two" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-two" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tt" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-ser-two" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tt" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-zuul" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tt" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tt" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -569,7 +328,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.TtZuulApplication">
+  <component name="RunManager" selected="Spring Boot.TtEurekaClientApplication">
     <configuration name="CountDownLatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hy.tt.otherTest.CountDownLatchTest" />
       <module name="tt-zuul" />
@@ -649,13 +408,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TtSerOneApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="tt-ser-one-api" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hy.tt.serOne.TtSerOneApiApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TtSerOneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="tt-ser-one" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.hy.tt.TtSerOneApplication" />
@@ -677,6 +429,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.CountDownLatchTest" />
+      <item itemvalue="Application.CyclicBarrierTest" />
+      <item itemvalue="Application.ObjectWaitTest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.TrackIdFilter" />
+      <item itemvalue="Spring Boot.TtEurekaClientApplication" />
+      <item itemvalue="Spring Boot.TtEurekaServerApplication" />
+      <item itemvalue="Spring Boot.TtSerOneApplication" />
+      <item itemvalue="Spring Boot.TtSerTwoApplication" />
+      <item itemvalue="Spring Boot.TtZuulApplication" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TrackIdFilter" />
@@ -725,6 +489,16 @@
       <workItem from="1566524108470" duration="8469000" />
       <workItem from="1566782771693" duration="9209000" />
       <workItem from="1566806269937" duration="3622000" />
+      <workItem from="1569203245435" duration="597000" />
+      <workItem from="1569289770599" duration="597000" />
+      <workItem from="1569375887437" duration="595000" />
+      <workItem from="1569462860568" duration="595000" />
+      <workItem from="1569548624149" duration="595000" />
+      <workItem from="1569721027756" duration="589000" />
+      <workItem from="1569723243545" duration="590000" />
+      <workItem from="1569806896479" duration="596000" />
+      <workItem from="1570498866335" duration="590000" />
+      <workItem from="1570586101229" duration="10018000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1563264152303</created>
@@ -782,11 +556,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565950483477</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="链路id传递">
+      <created>1568971941616</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568971941616</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147909000" />
+    <option name="totallyTimeSpent" value="163976000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -800,7 +581,7 @@
   <component name="ToolWindowManager">
     <frame x="-1747" y="-74" width="1604" height="917" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3362573" visible="true" weight="0.3361399" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3362573" visible="true" weight="0.38989636" />
       <window_info id="Structure" order="1" sideWeight="0.66374266" side_tool="true" weight="0.3448744" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -811,7 +592,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.40599" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4054054" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.43933588" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" visible="true" weight="0.43933588" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952183" />
@@ -819,7 +600,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.35723433" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.45841995" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.31417623" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3128991" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -827,7 +608,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24984501" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.16904145" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.16904145" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="JSF" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
@@ -846,26 +627,77 @@
     <MESSAGE value="自定义注解" />
     <MESSAGE value="单链表反转" />
     <MESSAGE value="zuul" />
-    <option name="LAST_COMMIT_MESSAGE" value="zuul" />
+    <MESSAGE value="链路id传递" />
+    <option name="LAST_COMMIT_MESSAGE" value="链路id传递" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tt-ser-one-api/src/main/java/com/hy/tt/serOne/config/DefaultWebMvcConfig.java" />
+    <entry file="file://$PROJECT_DIR$/tt-springCloud-learn.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-ser-one-api/src/main/java/com/hy/tt/serOne/config/TrackInterceptor.java" />
+    <entry file="file://$PROJECT_DIR$/tt-ser-one-api/src/main/java/com/hy/tt/serOne/config/FeignInterceptorConfig.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/HandlerExecutionChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/stream/Student.java" />
+    <entry file="file://$PROJECT_DIR$/tt-ser-one-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/otherTest/CyclicBarrierTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="152">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/otherTest/ObjectWaitTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/serTwo/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-eureka-client/src/main/java/com/hy/tt/serTwo/controller/SingleLinkListReversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="80" column="6" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/RateLimiterFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/otherTest/CountDownLatchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -878,64 +710,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/AbstractZuulFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/resources/Logback.xml.kt" />
-    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/RateLimiterFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-eureka-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/resources/Logback.xml" />
-    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/resources/logback-spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-eureka-server/src/main/java/com/hy/tt/TtEurekaServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/resources/logback-spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/TtZuulApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="152">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/TtTokenZuulFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="-257">
           <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -947,10 +729,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/FilterType.java">
+    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/TtZuulApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="133">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -961,111 +743,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurer.class">
+    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/FilterType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurerComposite.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="83" column="16" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-netflix-core/1.4.6.RELEASE/spring-cloud-netflix-core-1.4.6.RELEASE.jar!/org/springframework/cloud/netflix/feign/FeignClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-one-api/src/main/java/com/hy/tt/serOne/controller.java" />
-    <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/serOne/controller/IHelloController.java" />
-    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="35" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="50" column="29" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/TtSerTwoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-one-api/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="40" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/config/FeignInterceptorConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/serTwo/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="41" selection-start-line="25" selection-start-column="7" selection-end-line="27" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/TtSerOneApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-two/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="42" selection-start-line="42" selection-end-line="46" selection-end-column="21" />
+        <state relative-caret-position="114">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/config/ZuulConfigure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
+        <state relative-caret-position="218">
           <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1075,46 +762,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/config/TrackInterceptor.java">
+    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/TrackIdFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="22" column="72" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-eureka-client/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/TtSerTwoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/config/DefaultWebMvcConfig.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="236">
+            <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.1.6.RELEASE/spring-boot-starter-web-2.1.6.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-test/2.1.6.RELEASE/spring-boot-starter-test-2.1.6.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.6.RELEASE/spring-boot-dependencies-2.1.6.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="1974" column="62" selection-start-line="1974" selection-start-column="62" selection-end-line="1974" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.1.6.RELEASE/spring-boot-starter-parent-2.1.6.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.1.9.RELEASE/spring-boot-starter-parent-2.1.9.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.9.RELEASE/spring-boot-dependencies-2.1.9.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="1991" column="62" selection-start-line="1991" selection-start-column="62" selection-end-line="1991" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-zipkin/2.1.0.RELEASE/spring-cloud-starter-zipkin-2.1.0.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-zipkin/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-one-api/src/main/java/com/hy/tt/serOne/config/DefaultWebMvcConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-springCloud-learn.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-one-api/src/main/java/com/hy/tt/serOne/config/TrackInterceptor.java">
+    <entry file="file://$PROJECT_DIR$/tt-zipkin/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="332">
+          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-one-api/src/main/java/com/hy/tt/serOne/config/FeignInterceptorConfig.java">
+    <entry file="file://$PROJECT_DIR$/tt-zipkin/src/main/java/com/hy/tt/TtZipkinApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1123,32 +874,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tt-ser-one/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="351">
+          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/HandlerExecutionChain.class">
+    <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/java/com/hy/tt/filter/TrackIdFilter.java">
+    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="43" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="43" />
+        <state relative-caret-position="190">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/serTwo/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-ser-one-api/src/main/java/com/hy/tt/serOne/controller/IHelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/serOne/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1164,42 +932,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/config/TrackInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/java/com/hy/tt/serOne/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/resources/logback-spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-one-api/src/main/java/com/hy/tt/serOne/controller/IHelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/config/TrackInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="31" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="31" />
+        <state relative-caret-position="190">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -1212,8 +946,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/config/FeignInterceptorConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        <state relative-caret-position="323">
+          <caret line="27" column="5" selection-start-line="18" selection-start-column="3" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/config/TrackInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-ser-two/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
         </state>
       </provider>
     </entry>
