@@ -17,6 +17,7 @@
         <module>tt-ser-one</module>
         <module>tt-ser-two</module>
         <module>tt-ser-one-api</module>
+        <module>tt-feign</module>
     </modules>
 
 </project>

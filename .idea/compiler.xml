@@ -11,6 +11,7 @@
         <module name="tt-ser-two" />
         <module name="tt-zuul" />
         <module name="tt-ser-one-api" />
+        <module name="tt-feign" />
         <module name="tt-ser-one" />
       </profile>
     </annotationProcessing>
@@ -25,6 +26,7 @@
       <module name="demo" options="-parameters" />
       <module name="tt-eureka-client" options="-parameters" />
       <module name="tt-eureka-server" options="-parameters" />
+      <module name="tt-feign" options="-parameters" />
       <module name="tt-ser-one" options="-parameters" />
       <module name="tt-ser-one-api" options="-parameters" />
       <module name="tt-ser-two" options="-parameters" />

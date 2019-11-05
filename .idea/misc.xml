@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/tt-ser-one/pom.xml" />
         <option value="$PROJECT_DIR$/tt-ser-two/pom.xml" />
         <option value="$PROJECT_DIR$/tt-ser-one-api/pom.xml" />
+        <option value="$PROJECT_DIR$/tt-feign/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
