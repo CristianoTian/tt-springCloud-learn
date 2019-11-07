@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
  * @date 2019/11/5
  */
 @FeignClient(name="feignClientProxy" ,url = "http://localhost:8096/demo")
+//@FeignClient(name = "feignClientProxy")
 public interface FeignClientProxy {
 
     @RequestMapping(value = "/hello", method = RequestMethod.GET)

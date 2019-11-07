@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9efd0eea-312b-478f-a960-8cebef0bc43b" name="Default Changelist" comment="链路id传递">
-      <change afterPath="$PROJECT_DIR$/tt-feign/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/DemoResp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignClientProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignDemoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignOkHttpConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/ResponseData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/TtFeignApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-feign/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tt-feign/src/test/java/com/hy/tt/TtFeignApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tt-eureka-server/target/classes/com/hy/tt/TtEurekaServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/tt-eureka-server/target/classes/com/hy/tt/TtEurekaServerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt-feign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tt-feign/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignClientProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignClientProxy.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,90 +34,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.2.0.RC1/spring-cloud-openfeign-core-2.2.0.RC1-sources.jar!/org/springframework/cloud/openfeign/EnableFeignClients.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-feign/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignOkHttpConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/TtFeignApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignClientProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="18" column="26" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-feign/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/ResponseData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-              <folding>
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="380">
+              <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignDemoController.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.2.0.RC1/spring-cloud-openfeign-core-2.2.0.RC1-sources.jar!/org/springframework/cloud/openfeign/FeignClientsRegistrar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="185">
+              <caret line="240" column="76" lean-forward="true" selection-start-line="240" selection-start-column="76" selection-end-line="240" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -147,10 +65,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>size</find>
-      <find>DEFAULTCAPACITY_EMPTY_ELEMENTDATA</find>
-      <find>SHARED</find>
-      <find>unpark</find>
       <find>park</find>
       <find>ctl</find>
       <find>ctl.set</find>
@@ -177,6 +91,10 @@
       <find>BANNER_LOCATION_PROPERTY_VALUE</find>
       <find>tomcat</find>
       <find>@EnableAsync</find>
+      <find>loadBalance</find>
+      <find>target</find>
+      <find>registerFeignClient</find>
+      <find>getObject</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -236,9 +154,9 @@
         <option value="$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/DemoResp.java" />
         <option value="$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/ResponseData.java" />
         <option value="$PROJECT_DIR$/tt-feign/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignDemoController.java" />
         <option value="$PROJECT_DIR$/tt-feign/pom.xml" />
         <option value="$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignClientProxy.java" />
-        <option value="$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignDemoController.java" />
       </list>
     </option>
   </component>
@@ -259,7 +177,7 @@
     <option name="x" value="-1783" />
     <option name="y" value="6" />
     <option name="width" value="1378" />
-    <option name="height" value="735" />
+    <option name="height" value="884" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -268,18 +186,12 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tt-springCloud-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="tt-eureka-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tt-springCloud-learn" type="b2602c69:ProjectViewProjectNode" />
@@ -328,6 +240,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -576,6 +489,8 @@
       <workItem from="1572573158794" duration="590000" />
       <workItem from="1572831951674" duration="591000" />
       <workItem from="1572918801414" duration="4388000" />
+      <workItem from="1573006967008" duration="3814000" />
+      <workItem from="1573096692488" duration="1191000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1563264152303</created>
@@ -644,7 +559,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186815000" />
+    <option name="totallyTimeSpent" value="191820000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -656,10 +571,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1783" y="6" width="1378" height="735" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1783" y="6" width="1378" height="884" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.40034965" visible="true" weight="0.37329286" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.40034965" visible="true" weight="0.38543248" />
       <window_info id="Structure" order="1" sideWeight="0.5996503" side_tool="true" weight="0.3464819" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -670,7 +584,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.40599" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.14864865" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.49084857" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.52" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952183" />
@@ -678,7 +592,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.35723433" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.45841995" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.31281197" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.31281197" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -709,34 +623,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="链路id传递" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/pom.xml" />
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-zipkin/2.1.0.RELEASE/spring-cloud-starter-zipkin-2.1.0.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-zuul/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-zipkin/src/main/resources/application.properties" />
-    <entry file="file://$PROJECT_DIR$/tt-zipkin/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/tt-zipkin/src/main/java/com/hy/tt/TtZipkinApplication.java" />
-    <entry file="file://$PROJECT_DIR$/tt-ser-one/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-ser-one/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tt-ser-two/src/main/java/com/hy/tt/serTwo/controller/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -951,6 +837,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignClientProxyImpl.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -958,45 +845,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignClientProxyImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/ResponseData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-feign/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/TtFeignApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignOkHttpConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="171">
           <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1004,19 +855,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignClientProxy.java">
+    <entry file="file://$PROJECT_DIR$/tt-feign/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="76">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/ResponseData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/DemoResp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="328">
           <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
           <folding>
             <element signature="e#174#175#0" expanded="true" />
@@ -1031,20 +886,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tt-feign/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/tt-feign/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="199">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignDemoController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        <state relative-caret-position="388">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.2.0.RC1/spring-cloud-openfeign-core-2.2.0.RC1.jar!/org/springframework/cloud/openfeign/EnableFeignClients.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.2.0.RC1/spring-cloud-openfeign-core-2.2.0.RC1.jar!/org/springframework/cloud/openfeign/FeignClientsRegistrar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.0.RELEASE/spring-core-5.2.0.RELEASE.jar!/org/springframework/util/ClassUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="523" column="58" selection-start-line="523" selection-start-column="47" selection-end-line="523" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/FeignClientProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt-feign/src/main/java/com/hy/tt/TtFeignApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.0.RELEASE/spring-core-5.2.0.RELEASE.jar!/org/springframework/core/AliasRegistry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE.jar!/org/springframework/beans/factory/support/BeanDefinitionReaderUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="72" column="54" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.0.RELEASE/spring-web-5.2.0.RELEASE.jar!/org/springframework/http/converter/json/Jackson2ObjectMapperFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="176" column="33" selection-start-line="176" selection-start-column="24" selection-end-line="176" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.2.0.RC1/spring-cloud-openfeign-core-2.2.0.RC1-sources.jar!/org/springframework/cloud/openfeign/EnableFeignClients.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.2.0.RC1/spring-cloud-openfeign-core-2.2.0.RC1-sources.jar!/org/springframework/cloud/openfeign/FeignClientsRegistrar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="240" column="76" lean-forward="true" selection-start-line="240" selection-start-column="76" selection-end-line="240" selection-end-column="76" />
         </state>
       </provider>
     </entry>
